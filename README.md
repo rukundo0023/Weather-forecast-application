@@ -20,5 +20,5 @@ Units: Choose between metric and imperial units based on your preferences.
 
 Responsive Design: The app is responsive and works well on various devices including desktops, tablets, and smartphones.
 
-This is the video that show better how it works
+This is the video that shows better how it works
 <iframe width="320" height="560" src="https://www.youtube.com/embed/zGe4nkyu9d4" title="Weather App Demo (Xcode x Swift)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
